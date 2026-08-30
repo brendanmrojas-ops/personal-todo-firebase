@@ -1,7 +1,7 @@
 # Personal Task Manager — Firebase-Backed To-Do App
 
 **Live demo:** https://brendan-to-do.web.app
-**Repo:** _[add your GitHub repo link here once pushed]_
+**Repo:** https://github.com/brendanmrojas-ops/personal-todo-firebase
 
 ---
 
