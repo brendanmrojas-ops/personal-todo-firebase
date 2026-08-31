@@ -26,16 +26,16 @@ I designed and built this end-to-end myself: the front-end UI, the data model, t
 ## 📸 Screenshot Gallery
 
 **Sign-in screen**
-![Sign-in screen](signin.png)
+<img src="signin.png" alt="Sign-in screen" width="500">
 
 **Main task view — category tabs with color-coded bullets**
-![Main task view](tasks-view.png)
+<img src="tasks-view.png" alt="Main task view" width="700">
 
 **Urgent task — gold highlight and filled star**
-![Urgent task](urgent-task.png)
+<img src="urgent-task.png" alt="Urgent task" width="700">
 
 **Completed tasks section expanded**
-![Completed tasks expanded](completed-expanded.png)
+<img src="completed-expanded.png" alt="Completed tasks expanded" width="700">
 
 ---
 
