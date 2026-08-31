@@ -25,15 +25,17 @@ I designed and built this end-to-end myself: the front-end UI, the data model, t
 
 ## 📸 Screenshot Gallery
 
-📌 *Screenshot Placeholder: Sign-in / create account screen*
+**Sign-in screen**
+![Sign-in screen](signin.png)
 
-📌 *Screenshot Placeholder: Main task view showing category tabs and color-coded bullets*
+**Main task view — category tabs with color-coded bullets**
+![Main task view](tasks-view.png)
 
-📌 *Screenshot Placeholder: A task flagged urgent, showing the gold highlight and star icon*
+**Urgent task — gold highlight and filled star**
+![Urgent task](urgent-task.png)
 
-📌 *Screenshot Placeholder: Completed tasks section expanded*
-
-📌 *Screenshot Placeholder: The same list open on two devices side-by-side, showing synced state*
+**Completed tasks section expanded**
+![Completed tasks expanded](completed-expanded.png)
 
 ---
 
